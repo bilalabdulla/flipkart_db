@@ -1,0 +1,37 @@
+
+export const products = [
+    {
+        name: "moto 25D",
+        storage: 1280000,
+        image: "user.png",
+        display: "16 inch",
+        camera: "40mp",
+        battery: "1800mah",
+        ram: 4000,
+        processor: "qualcomm",
+        warranty: 2,
+        price: 28000,
+        assured: true,
+        discount: 34,
+        rating: "4.4",
+        brand: "moto",
+        popularity: 5,
+    },
+    {
+    name: "moto 18D",
+    storage: 64000,
+    image: "user.png",
+    display: "40 inch",
+    camera: "40mp",
+    battery: "1000mah",
+    ram: 6000,
+    processor: "Qualcomm Hexa core",
+    warranty: 2,
+    price: 16000,
+    assured: false,
+    discount: 16,
+    rating: "3.3",
+    brand: "moto",
+    popularity: 16,
+    }
+]
